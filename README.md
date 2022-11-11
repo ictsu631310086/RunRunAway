@@ -8,7 +8,7 @@
 จันทิมา ไตรจินดา 631310086 https://github.com/ictsu631310086 \
 Character Designer/2D Artist/Game Director\
 ณัฏฐธิดา สีรือแสง 631310436 https://github.com/ictsu631310436 \
-Game Developer/Producer\
+Game Developer\
 ธนกาญจน์ เชิดโฉม 631310441 https://github.com/ictsu631310441 \
 Technical artist\
 ธีรพงศ์ ขำกฤษ 631310444 https://github.com/ictsu631310444 \
